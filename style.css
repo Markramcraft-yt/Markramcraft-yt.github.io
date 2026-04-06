@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: lime;
+    font-family: "Courier New" , monospace
+}
+ 
+h1 {
+    color: lime;
+    text-shadow: 0px 0px 10px lime
+
+}
+
+h2{
+    color: rgb(0, 255, 34);
+
+}
+
+p{
+    color: white;
+
+}
+
+a{
+    color: cyan;
+
+}
